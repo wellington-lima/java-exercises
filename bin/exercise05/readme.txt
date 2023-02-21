@@ -1,0 +1,2 @@
+Fazer um programa para ler a cotação do dolar e a quantidade de dolares que se deseja comprar.
+Calcular o valor que a pessoa deverá pagar com base na cotação informada, considerando ainda um acréscimo de 6% de IOF sobre o valor em dólar.
